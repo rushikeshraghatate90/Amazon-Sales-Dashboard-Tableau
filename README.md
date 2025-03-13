@@ -43,7 +43,7 @@ This repository contains a **Tableau-based dashboard** for analyzing **Amazon sa
 ## 🚀 How to Use  
 1. **Clone the repository**:  
    ```sh  
-   git clone https://github.com/yourusername/Amazon-Sales-Dashboard-Tableau.git  
+   git clone https://github.com/rushikeshraghatate90/Amazon-Sales-Dashboard-Tableau.git 
    ```  
 2. **Open Tableau** and import the dataset.  
 3. **Explore the dashboard** for detailed insights.  
